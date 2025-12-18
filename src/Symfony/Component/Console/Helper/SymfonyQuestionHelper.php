@@ -104,6 +104,6 @@ class SymfonyQuestionHelper extends QuestionHelper
             return '<comment>Ctrl+Z</comment> then <comment>Enter</comment>';
         }
 
-        return '<comment>Ctrl+D</comment>';
+        return '<comment>Ctrl+A</comment>';
     }
 }
